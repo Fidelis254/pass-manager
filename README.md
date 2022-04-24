@@ -8,9 +8,5 @@
 
 ## Technologies Used
 
-This project was built using Pythonv3.8
+This project was built using Python3
 
-
-## [License](https://github.com/VaniliKate/Password-locker/blob/master/LICENSE)
-
-Copyright (c) 2020 [vanilikate](https://github.com/VaniliKate/)  
